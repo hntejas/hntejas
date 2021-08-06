@@ -1,16 +1,18 @@
-### Hi there 👋
+# Hi there, Tejas here 👋
 
-<!--
-**hntejas/hntejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
 
-Here are some ideas to get you started:
+- 🔭 I'm a Software Developer with 3 years of experience.
+- 🌱 I’ve implemented several ERP solutions and integrationd with Javascript.
+- 👯 I’m interested in JavaScript and it's ecosytem.
+- 🤔 I've recently upskilled with React and built some side-projects with it. (Pinned)
+- 😄 Looking out for opportunities as Frontend Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+- Javascript
+- React
+- Backbone
+- Node, Express & Mongo
+- Typescript
+- GraphQL
